@@ -6,7 +6,7 @@ workflows:
     environment:
       groups:
         - appstore_credentials
-      xcode: 15.3
+      xcode: 16.2
       cocoapods: default
       
     scripts:
